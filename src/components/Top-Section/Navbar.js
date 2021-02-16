@@ -7,7 +7,7 @@ import './Top-Section.css';
 
 
 function NavbarTextContents() {
-  return ['Home', 'Features', 'Explore', 'Contact'].map((eachElement) => {
+  return ['Home', 'Features',  'Contact'].map((eachElement) => {
     return (
       <a href className='NavbarText' >
         {eachElement}
@@ -23,7 +23,7 @@ function Navbar() {
 
       <NavbarTextContents />
 
-      <img src="https://img.icons8.com/android/24/ffffff/more.png" alt = "more_vert" className = "More-vert" />
+      {/* <img src="https://img.icons8.com/android/24/ffffff/more.png" alt = "more_vert" className = "More-vert" /> */}
 
     </div>
   );
