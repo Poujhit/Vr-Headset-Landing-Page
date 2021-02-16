@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Vr-Headset-Landing-Page/static/css/main.4a08d84e.chunk.css",
-    "main.js": "/Vr-Headset-Landing-Page/static/js/main.6152e6c4.chunk.js",
-    "main.js.map": "/Vr-Headset-Landing-Page/static/js/main.6152e6c4.chunk.js.map",
+    "main.css": "/Vr-Headset-Landing-Page/static/css/main.9105ec2d.chunk.css",
+    "main.js": "/Vr-Headset-Landing-Page/static/js/main.08158a3f.chunk.js",
+    "main.js.map": "/Vr-Headset-Landing-Page/static/js/main.08158a3f.chunk.js.map",
     "runtime-main.js": "/Vr-Headset-Landing-Page/static/js/runtime-main.e74fb3d5.js",
     "runtime-main.js.map": "/Vr-Headset-Landing-Page/static/js/runtime-main.e74fb3d5.js.map",
     "static/css/2.ffda3d49.chunk.css": "/Vr-Headset-Landing-Page/static/css/2.ffda3d49.chunk.css",
@@ -12,20 +12,20 @@
     "static/js/3.733b211e.chunk.js.map": "/Vr-Headset-Landing-Page/static/js/3.733b211e.chunk.js.map",
     "index.html": "/Vr-Headset-Landing-Page/index.html",
     "static/css/2.ffda3d49.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/2.ffda3d49.chunk.css.map",
-    "static/css/main.4a08d84e.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/main.4a08d84e.chunk.css.map",
+    "static/css/main.9105ec2d.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/main.9105ec2d.chunk.css.map",
     "static/js/2.55026afd.chunk.js.LICENSE.txt": "/Vr-Headset-Landing-Page/static/js/2.55026afd.chunk.js.LICENSE.txt",
     "static/media/headset2.7394c41d.png": "/Vr-Headset-Landing-Page/static/media/headset2.7394c41d.png",
     "static/media/image1.f7925efc.png": "/Vr-Headset-Landing-Page/static/media/image1.f7925efc.png",
     "static/media/image2.a5e45cb8.png": "/Vr-Headset-Landing-Page/static/media/image2.a5e45cb8.png",
-    "static/media/image3.bf5fbf61.png": "/Vr-Headset-Landing-Page/static/media/image3.bf5fbf61.png",
+    "static/media/image3.216fdf41.png": "/Vr-Headset-Landing-Page/static/media/image3.216fdf41.png",
     "static/media/image4.1c7d5d60.png": "/Vr-Headset-Landing-Page/static/media/image4.1c7d5d60.png",
-    "static/media/image5.e9bb63d9.png": "/Vr-Headset-Landing-Page/static/media/image5.e9bb63d9.png"
+    "static/media/image5.b749ba74.png": "/Vr-Headset-Landing-Page/static/media/image5.b749ba74.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e74fb3d5.js",
     "static/css/2.ffda3d49.chunk.css",
     "static/js/2.55026afd.chunk.js",
-    "static/css/main.4a08d84e.chunk.css",
-    "static/js/main.6152e6c4.chunk.js"
+    "static/css/main.9105ec2d.chunk.css",
+    "static/js/main.08158a3f.chunk.js"
   ]
 }
