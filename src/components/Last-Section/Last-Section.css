@@ -1,7 +1,7 @@
 .Last-Section {
   background-color: #1f1e1e;
   width: 100%;
-  height: 50vh;
+  height: 70vh;
 }
 .Form {
   width: 80%;
@@ -34,4 +34,12 @@
   color: black;
   font-size: 16px;
   border-radius: 60px;
+}
+
+.CopyRight{
+  position: absolute;
+  font-size: 18px;
+  margin-top: 50px;
+right: 43%;
+  color: white;
 }
