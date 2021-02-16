@@ -1,65 +1,28 @@
 import React from 'react';
-import Zoom from 'react-reveal/Zoom';
-import Roll from 'react-reveal/Roll';
 import Particles from 'react-tsparticles';
 import Slide from 'react-reveal/Slide';
 
-import Headset from '../../images/headset2.png';
-import Vr1 from '../../images/vr1.png';
-import Vr2 from '../../images/vr3.png';
-import Vr3 from '../../images/vr2.png';
+import './Last-Section.css';
 
-import './Second-Section.css';
-
-function SecondSection() {
+function LastSection() {
   return (
-    <div className='Second-Section'>
-      <Zoom>
-        <text className='Intro4'>What Special on this Product</text>
-      </Zoom>
-      <Roll left>
-        <img src={Headset} className='product-image2 ' alt='second' />
-      </Roll>
+    <div className='Last-Section'>
+      <div className="Form">
+      <br/>
+      <br/>
+          <text className = "Subscribe">Subscribe to get updates on the product</text>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
 
-      <div className='Second-section-right'>
-        <div className='back-g1'>
-          <img src={Vr1} className='Vr1' alt='vr1' />
-        </div>
-
-        <Slide bottom>
-          <text className='Title-1'>Touch Controller</text>
-          <text className='Title-1-content'>
-            You can Switch On the touch controller to get a great experince
-            while gaming without fatigue on long gaming sessions and a great
-            haptic feedback for immersive experience
-          </text>
-        </Slide>
-
-        <div className='back-g2'>
-          <img src={Vr2} className='Vr2' alt='Vr2' />
-        </div>
-        <Slide bottom>
-          <text className='Title-2'>Battery And Power</text>
-          <text className='Title-2-content'>
-            This Vr Headset has USB-C support with fast charging which can
-            charge the headset in just 40 mins and you will get upto 10 hrs of
-            battery life
-          </text>
-        </Slide>
-
-        <div className='back-g3'>
-          <img src={Vr3} className='Vr3' alt='Vr3' />
-        </div>
-        <Slide bottom>
-          <text className='Title-3'>Eyeglass Spacer</text>
-          <text className='Title-3-content'>
-            Eyeglass Spacer for providing comfort while playing using this
-            headset for prolong hours.
-          </text>
-        </Slide>
+          <input className = 'Subscribe-form' placeholder = "       Enter Your Email-Id"></input>
+          <button className = 'Subscribe-button' >Submit</button>
       </div>
 
-      <Particles
+      
+
+      {/* <Particles
         id='Second-Section'
         options={{
           particles: {
@@ -167,9 +130,9 @@ function SecondSection() {
           ],
           detectRetina: true,
         }}
-      />
+      /> */}
     </div>
   );
 }
 
-export { SecondSection };
+export { LastSection };

@@ -2,13 +2,16 @@ import React from 'react';
 import Roll from 'react-reveal/Roll';
 import Particles from 'react-tsparticles';
 
-import { Navbar } from './Navbar';
+
+import { Navbar } from '../../widgets/Navbar';
 import Image1 from '../../images/image1.png';
 import Image2 from '../../images/image2.png';
 import Image3 from '../../images/image3.png';
 import Image4 from '../../images/image4.png';
 import Image5 from '../../images/image5.png';
 import './Top-Section.css';
+
+
 
 function TopSection() {
   return (
@@ -109,7 +112,9 @@ function TopSection() {
           </text>
         </Roll>
       </div>
-      <button className='Intro-button'>Buy Now</button>
+      <button className='Intro-button' onClick = {()=>{
+     
+      } }  >Buy Now</button>
       <div className='Top-section-content-right'>
         <Roll right>
           <img src={Image2} className='Image-2' alt='image2' />

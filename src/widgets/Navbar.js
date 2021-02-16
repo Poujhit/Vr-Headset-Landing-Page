@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Logo from '../../images/headset.png';
+import Logo from '../images/headset.png';
 
-import './Top-Section.css';
+import '../components/Top-Section/Top-Section.css';
 
 
 
