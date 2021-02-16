@@ -124,21 +124,24 @@
 
 .Image-3 {
   position: absolute;
-  left: 48%;
-  top: 430px;
-  transform: rotate(+90deg);
+  width: 350px;
+  height: 350px;
+  left: 49%;
+  top: 440px;
 }
 
 .Image-4 {
   position: absolute;
+  width: 360px;
+  height: 370px;
   left: 62%;
   top: 430px;
 }
 
 .Image-5 {
   position: absolute;
+  width: 350px;
+  height: 360px;
   left: 75%;
-  top: 430px;
-
-  transform: rotate(+90deg);
+  top: 435px;
 }
