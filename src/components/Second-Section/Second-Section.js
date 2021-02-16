@@ -13,7 +13,7 @@ import './Second-Section.css';
 
 function SecondSection() {
   return (
-    <div className='Second-Section'>
+    <div className='Second-Section' id ="Features">
       <Zoom>
         <text className='Intro4'>What Special on this Product</text>
       </Zoom>

@@ -6,7 +6,7 @@ import './Last-Section.css';
 
 function LastSection() {
   return (
-    <div className='Last-Section'>
+    <div className='Last-Section' id ="Subscribe" >
       <Roll right>
         <div className='FormBox'>
           <br />

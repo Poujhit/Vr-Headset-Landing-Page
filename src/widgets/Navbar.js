@@ -2,29 +2,47 @@ import React from 'react';
 
 import Logo from '../images/headset.png';
 
+import { Link } from 'react-scroll';
+
 import '../components/Top-Section/Top-Section.css';
-
-
-
-function NavbarTextContents() {
-  return ['Home', 'Features',  'Subscribe'].map((eachElement) => {
-    return (
-      <a href className='NavbarText' >
-        {eachElement}
-      </a>
-    );
-  });
-}
 
 function Navbar() {
   return (
     <div className='Navbar'>
       <img className='Logo' src={Logo} alt='My logo' />
-
-      <NavbarTextContents />
-
-      {/* <img src="https://img.icons8.com/android/24/ffffff/more.png" alt = "more_vert" className = "More-vert" /> */}
-
+      <Link
+        activeClass='active'
+        to='Home'
+        spy={true}
+        smooth={true}
+        offset={0}
+        duration={500}
+        className='NavbarText'
+      >
+        Home
+      </Link>
+      <Link
+        activeClass='active'
+        to='Features'
+        spy={true}
+        smooth={true}
+        offset={0}
+        duration={500}
+        className='NavbarText'
+      >
+        Features
+      </Link>
+      <Link
+        activeClass='active'
+        to='Subscribe'
+        spy={true}
+        smooth={true}
+        offset={0}
+        duration={500}
+        className='NavbarText'
+      >
+        Subscribe
+      </Link>
     </div>
   );
 }

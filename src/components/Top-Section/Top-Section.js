@@ -16,7 +16,7 @@ import './Top-Section.css';
 function TopSection() {
  
   return (
-    <div className='Top-Section'>
+    <div className='Top-Section'id = "Home">
       <Navbar />
       <Particles
         id='Top-Section'
