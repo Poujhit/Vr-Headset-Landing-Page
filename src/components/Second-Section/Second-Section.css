@@ -7,15 +7,15 @@
 .product-image2 {
   position: absolute;
   margin-top: 220px;
-  left: 40px;
+  left: 60px;
   width: 450px;
   height: 450px;
 }
 
 .Intro4 {
   position: absolute;
-  margin-top: 160px;
-  right: 35%;
+  margin-top: 130px;
+  right: 33%;
 
   font-family: Roboto Condensed;
   font-style: normal;
@@ -29,7 +29,7 @@
   position: absolute;
   width: 85.3px;
   height: 90.42px;
-  left: 648px;
+  left: 700px;
   top: 1000px;
   text-align: center;
   background: #407fff;
@@ -47,7 +47,7 @@
 .Title-1 {
   position: absolute;
 
-  left: 585px;
+  left: 635px;
   top: 1100px;
   color: #1287c7;
 
@@ -62,7 +62,7 @@
   position: absolute;
   width: 291px;
   height: 72px;
-  left: 555px;
+  left: 600px;
   top: 1150px;
 
   font-family: Roboto Condensed;
@@ -76,7 +76,7 @@
   position: absolute;
   width: 85.3px;
   height: 90.42px;
-  right: 250px;
+  right: 220px;
   top: 1000px;
   text-align: center;
   background: #407fff;
@@ -94,7 +94,7 @@
 .Title-2 {
   position: absolute;
 
-  right: 165px;
+  right: 130px;
   top: 1100px;
   color: #1287c7;
 
@@ -109,7 +109,7 @@
   position: absolute;
   width: 291px;
   height: 72px;
-  right: 145px;
+  right: 110px;
   top: 1150px;
 
   font-family: Roboto Condensed;
@@ -129,7 +129,7 @@
   position: absolute;
   width: 85.3px;
   height: 90.42px;
-  right: 510px;
+  right: 470px;
   top: 1250px;
   text-align: center;
   background: #407fff;
@@ -139,12 +139,9 @@
 
 .Title-3 {
   position: absolute;
-
-  right: 435px;
-
+  right: 395px;
   top: 1345px;
   color: #1287c7;
-
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
@@ -156,7 +153,7 @@
   position: absolute;
   width: 291px;
   height: 72px;
-  right: 400px;
+  right: 365px;
   top: 1400px;
 
   font-family: Roboto Condensed;

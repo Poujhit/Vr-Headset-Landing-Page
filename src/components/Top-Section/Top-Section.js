@@ -2,6 +2,8 @@ import React from 'react';
 import Roll from 'react-reveal/Roll';
 import Particles from 'react-tsparticles';
 
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 import { Navbar } from '../../widgets/Navbar';
 import Image1 from '../../images/image1.png';
@@ -11,9 +13,8 @@ import Image4 from '../../images/image4.png';
 import Image5 from '../../images/image5.png';
 import './Top-Section.css';
 
-
-
 function TopSection() {
+ 
   return (
     <div className='Top-Section'>
       <Navbar />
@@ -112,9 +113,25 @@ function TopSection() {
           </text>
         </Roll>
       </div>
-      <button className='Intro-button' onClick = {()=>{
-     
-      } }  >Buy Now</button>
+      <button
+        className='Intro-button'
+        onClick={() => {
+          toast.error(
+            'Product Not Available right now. Try Again Later',
+            {
+              position: 'bottom-center',
+              autoClose: 5000,
+              hideProgressBar: false,
+              closeOnClick: true,
+              pauseOnHover: true,
+              draggable: true,
+              progress: undefined,
+            }
+          );
+        }}
+      >
+        Buy Now
+      </button>
       <div className='Top-section-content-right'>
         <Roll right>
           <img src={Image2} className='Image-2' alt='image2' />
@@ -125,6 +142,17 @@ function TopSection() {
           <img src={Image5} className='Image-5' alt='image5' />
         </Roll>
       </div>
+      <ToastContainer
+        position='bottom-center'
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
     </div>
   );
 }

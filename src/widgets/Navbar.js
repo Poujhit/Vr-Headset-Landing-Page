@@ -7,7 +7,7 @@ import '../components/Top-Section/Top-Section.css';
 
 
 function NavbarTextContents() {
-  return ['Home', 'Features',  'Contact'].map((eachElement) => {
+  return ['Home', 'Features',  'Subscribe'].map((eachElement) => {
     return (
       <a href className='NavbarText' >
         {eachElement}
