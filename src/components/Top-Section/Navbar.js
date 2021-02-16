@@ -4,10 +4,12 @@ import Logo from '../../images/headset.png';
 
 import './Top-Section.css';
 
+
+
 function NavbarTextContents() {
   return ['Home', 'Features', 'Explore', 'Contact'].map((eachElement) => {
     return (
-      <a href className='NavbarText'>
+      <a href className='NavbarText' >
         {eachElement}
       </a>
     );
