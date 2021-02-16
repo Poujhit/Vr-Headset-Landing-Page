@@ -40,12 +40,12 @@
 
 .Image-1 {
   position: absolute;
-  left: 192.2px;
+  left: 222.2px;
   top: 20px;
   bottom: 840px;
 }
 
-.Top-section-content-right {
+.Top-section-content-left {
   position: absolute;
   width: 469px;
   height: 319px;
@@ -103,4 +103,32 @@
   box-shadow: 0px 0px 0px white;
   border-radius: 30px;
   cursor: pointer;
+}
+
+.Image-2 {
+  position: absolute;
+  left: 60%;
+  top: 120px;
+}
+
+.Image-3 {
+  position: absolute;
+  left: 48%;
+  top: 60%;
+  transform: rotate(+90deg);
+}
+
+.Image-4 {
+  position: absolute;
+  left: 62%;
+  top: 60%;
+}
+
+.Image-5 {
+  position: absolute;
+
+  left: 75%;
+  top: 60%;
+
+  transform: rotate(+90deg);
 }
