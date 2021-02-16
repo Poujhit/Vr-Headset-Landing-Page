@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Vr-Headset-Landing-Page/static/css/main.e7927c2e.chunk.css",
-    "main.js": "/Vr-Headset-Landing-Page/static/js/main.c2f3f02a.chunk.js",
-    "main.js.map": "/Vr-Headset-Landing-Page/static/js/main.c2f3f02a.chunk.js.map",
-    "runtime-main.js": "/Vr-Headset-Landing-Page/static/js/runtime-main.fb7af89b.js",
-    "runtime-main.js.map": "/Vr-Headset-Landing-Page/static/js/runtime-main.fb7af89b.js.map",
+    "main.css": "/Vr-Headset-Landing-Page/static/css/main.4a08d84e.chunk.css",
+    "main.js": "/Vr-Headset-Landing-Page/static/js/main.6152e6c4.chunk.js",
+    "main.js.map": "/Vr-Headset-Landing-Page/static/js/main.6152e6c4.chunk.js.map",
+    "runtime-main.js": "/Vr-Headset-Landing-Page/static/js/runtime-main.e74fb3d5.js",
+    "runtime-main.js.map": "/Vr-Headset-Landing-Page/static/js/runtime-main.e74fb3d5.js.map",
     "static/css/2.ffda3d49.chunk.css": "/Vr-Headset-Landing-Page/static/css/2.ffda3d49.chunk.css",
-    "static/js/2.ff5080e3.chunk.js": "/Vr-Headset-Landing-Page/static/js/2.ff5080e3.chunk.js",
-    "static/js/2.ff5080e3.chunk.js.map": "/Vr-Headset-Landing-Page/static/js/2.ff5080e3.chunk.js.map",
-    "static/js/3.4707c457.chunk.js": "/Vr-Headset-Landing-Page/static/js/3.4707c457.chunk.js",
-    "static/js/3.4707c457.chunk.js.map": "/Vr-Headset-Landing-Page/static/js/3.4707c457.chunk.js.map",
+    "static/js/2.55026afd.chunk.js": "/Vr-Headset-Landing-Page/static/js/2.55026afd.chunk.js",
+    "static/js/2.55026afd.chunk.js.map": "/Vr-Headset-Landing-Page/static/js/2.55026afd.chunk.js.map",
+    "static/js/3.733b211e.chunk.js": "/Vr-Headset-Landing-Page/static/js/3.733b211e.chunk.js",
+    "static/js/3.733b211e.chunk.js.map": "/Vr-Headset-Landing-Page/static/js/3.733b211e.chunk.js.map",
     "index.html": "/Vr-Headset-Landing-Page/index.html",
     "static/css/2.ffda3d49.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/2.ffda3d49.chunk.css.map",
-    "static/css/main.e7927c2e.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/main.e7927c2e.chunk.css.map",
-    "static/js/2.ff5080e3.chunk.js.LICENSE.txt": "/Vr-Headset-Landing-Page/static/js/2.ff5080e3.chunk.js.LICENSE.txt",
+    "static/css/main.4a08d84e.chunk.css.map": "/Vr-Headset-Landing-Page/static/css/main.4a08d84e.chunk.css.map",
+    "static/js/2.55026afd.chunk.js.LICENSE.txt": "/Vr-Headset-Landing-Page/static/js/2.55026afd.chunk.js.LICENSE.txt",
     "static/media/headset2.7394c41d.png": "/Vr-Headset-Landing-Page/static/media/headset2.7394c41d.png",
     "static/media/image1.f7925efc.png": "/Vr-Headset-Landing-Page/static/media/image1.f7925efc.png",
     "static/media/image2.a5e45cb8.png": "/Vr-Headset-Landing-Page/static/media/image2.a5e45cb8.png",
@@ -22,10 +22,10 @@
     "static/media/image5.e9bb63d9.png": "/Vr-Headset-Landing-Page/static/media/image5.e9bb63d9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb7af89b.js",
+    "static/js/runtime-main.e74fb3d5.js",
     "static/css/2.ffda3d49.chunk.css",
-    "static/js/2.ff5080e3.chunk.js",
-    "static/css/main.e7927c2e.chunk.css",
-    "static/js/main.c2f3f02a.chunk.js"
+    "static/js/2.55026afd.chunk.js",
+    "static/css/main.4a08d84e.chunk.css",
+    "static/js/main.6152e6c4.chunk.js"
   ]
 }
